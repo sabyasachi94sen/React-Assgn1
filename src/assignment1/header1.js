@@ -2,7 +2,11 @@ import React from 'react';
 
 import './index.css';
 
-export function Header1(){
+export function Header1(props){
+
+
+    
+
 
    
         return (
